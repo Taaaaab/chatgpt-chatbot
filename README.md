@@ -2,6 +2,8 @@
 
 Traversy Media ChatGPT Chatbot using OpenAI & Javascript
 
+![alt tag](https://raw.githubusercontent.com/Taaaaab/chatgpt-chatbot/main/img/Screenshot.png)
+
 ## How It's Made:
 
 **Tech used:** OpenAI API & Javascript
